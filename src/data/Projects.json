@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Analysis of SPIF using cryogenic treated tool",
+      "imageSrc": "projects/spif.png",
+      "description": "This is a project on analysis of SPIC using cryogenic treated tool. The study also includes includes measuring the surface roughness",
+      "skills": [],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Portfolio website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project how to build a basic website using React.",
+      "skills": ["React", "JavaScript", "Html", "Css"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/GUNTISAICHARAN/git.1"
+    },
+    {
+      "title": "Preparation of 7075-Al alloy",
+      "imageSrc": "projects/download.png",
+      "description": "This is a project on preparation of 7075 aluminum alloy.The aim of our study is to investigate the mechanical behavior and microstructure",
+      "skills": [],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
